@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <!--<external-path name="external_files" path="."/>-->
+    <external-path
+        name="files_root"
+        path="Android/data/${applicationId}"/>
+    <external-path
+        name="external_storage_root"
+        path="."/>
+
+    <external-path
+        name="external_path"
+        path="."/>
+    <external-path
+        name="external"
+        path="." />
+    <external-path
+        name="photos"
+        path="Pictures" />
+    <external-path name="videos"
+        path="Movies" />
+    <root-path
+        name="sdcard1"
+        path="." />
+    <files-path
+        name="files"
+        path="." />
+
+</paths>
